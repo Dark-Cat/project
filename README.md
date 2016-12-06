@@ -4,4 +4,4 @@
 #deneme
 
 
-# xxx
+#Buraya isim gelmeli
